@@ -1,0 +1,22 @@
+body{
+    background: rgb(182, 183, 176);
+    margin-top: auto; 
+    margin-left: 25px;
+    margin-right: 25px;
+}
+
+nav{
+    background-color: rgb(147, 159, 159);
+   
+}
+h2{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+img{
+    margin-bottom: 25px;
+}
+.btn{
+    border-radius: 10px;
+    border-color: aquamarine;
+   border-style: ridge;
+}
